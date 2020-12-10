@@ -1,0 +1,35 @@
+@font-face
+{
+	font-family: 'Acme';
+	src: url(../policies/acme-fontfacekit/Acme-Regular-webfont.woff)
+}
+
+
+    /*Header*/
+
+body
+{
+    font-family: 'Acme';
+}
+
+header
+{
+    background-color: #fff3fe;
+}
+
+#infos
+{
+    text-align: center;
+}
+
+#deplacements_contact
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#description
+{
+    text-align: center;
+    font-size: 1.1em;
+}
